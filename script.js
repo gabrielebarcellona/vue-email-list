@@ -1,4 +1,4 @@
-const app = VueCreateapp({
+const app = Vue.createApp({
     data(){
         return{
             EmailList : ''
